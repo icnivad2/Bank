@@ -75,7 +75,7 @@ public class Bank {
 		}
 		
            else
-        	    return "Overdraft disallowed " + this.balance + " Withdrawal Amount " + amount;
+        	    return "Overdraft unfortately dissallowed " + this.balance + " Withdrawal Amount " + amount;
 		 	   
 		   
 			
