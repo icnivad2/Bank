@@ -9,9 +9,9 @@ public class Main {
 		Bank sue = new Bank(10011,10340.34,"Sue","343-2334","sue@mail.com");
 		
 		
-		System.out.println("Account balance: " + sue.getName() + "--"  + sue.getBalance());
+		System.out.println("Acc balance: " + sue.getName() + "--"  + sue.getBalance());
 
-		System.out.println("Account balance: " + joe.getName() + "--"  + joe.getBalance());
+		System.out.println("Acc balance: " + joe.getName() + "--"  + joe.getBalance());
 		
 		System.out.println(joe.withdrawal( 300));
 
